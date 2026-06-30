@@ -13,3 +13,5 @@
 [ноутбук к третьему заданию](Основное_задание_3_(пайплайн2)".ipynb)
 
 [Ссылка на скачивание весов итоговой модели](https://drive.google.com/file/d/17-h36_GmNR84kQU6jupFtHLtnIqqZMHJ/view?usp=sharing) 
+
+[Ссылка к папке со всеми датасетами и материалами проекта](https://drive.google.com/drive/folders/16h17WgL8r21-iHPMTbIhA-ZZfwz5OqWK?usp=sharing)
